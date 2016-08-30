@@ -1,0 +1,6 @@
+.container {
+  position: fixed;
+  height: 50vh;
+  background-color: #B71C1C;
+  width: inherit;
+}

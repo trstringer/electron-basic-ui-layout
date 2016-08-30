@@ -9,3 +9,7 @@
 ## What should you do with this?
 
 Make it your own! :boom: Use this as a guide to structure the UI for you Electron/React app.
+
+## Credit
+
+This app was created from a clone of the amazing [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate) repo.  So many thanks to [chentsulin](https://github.com/chentsulin) for creating and maintaining this wonderful boilerplate!
